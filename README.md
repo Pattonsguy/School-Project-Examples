@@ -25,6 +25,7 @@ Intro to AI:
 All AI projects utilized Python.
 Project 1 - An crash course introduction to Python. We wrote a program that would read off of a supplies CSV file and convert them into a "State" object. The user would then be given several options to view different statistical calculations related to the data.
 Project 2 - Tasked with creating generic search algorithms such as Depth First Search, Breadth First Search, Uniform Cost Search, and A star. The autograder provided would reference the methods we were to add our code to.
+Project 4 - Tasked with creating a generic Bayes and Perceptron classifiers that would be tested with taking in an image of a number and classifying which number mateches each picture. All four individual components worked perfectly for the autograder provided.
 
 Operating Systems:
 dosinterpreter.c - A program created to work with the linux command line that would take in DOS commands, perform an equivalent linux command in the background, and return the result to the user.
